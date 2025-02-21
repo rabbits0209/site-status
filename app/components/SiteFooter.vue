@@ -50,9 +50,9 @@ const { public: configPublic } = useRuntimeConfig();
 const { siteIcp, version } = configPublic;
 
 const linkData = {
-  github: "https://github.com/imsyy/site-status",
-  home: "https://www.imsyy.top",
-  email: "mailto:one@imsyy.top",
+  github: "https://github.com/tutuxka",
+  home: "https://blog.tutuxka.eu.org",
+  email: "mailto:1742305143@qq.com",
 };
 </script>
 
